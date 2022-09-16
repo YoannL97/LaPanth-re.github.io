@@ -119,7 +119,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: white;
+    color: black;
 }
 
 .d-bloc .a-btn:hover,
@@ -647,13 +647,13 @@ h3,
 h4,
 h5,
 h6,
-p,
+
 label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 
@@ -698,7 +698,6 @@ a {
     width: 300px;
     padding: 10px 30px 10px 30px;
     margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     border-radius: 10px;
     font-size: 16px;
@@ -786,7 +785,6 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1048,7 +1046,7 @@ h4 {
     display: flex;
     justify-content: center;
     text-align: center;
-    color: white;
+    color: black;
     padding-bottom: 20px;
     font-size: 18px;
 }
@@ -1056,6 +1054,7 @@ h4 {
 .col-sm-6 {
     text-align: center;
     width: 100%;
+    font-size: 20px;
 }
 
 .center a {
@@ -1111,7 +1110,7 @@ span {
 
 .bloc-images h3, p {
     text-align: center;
-
+    color: black;
 }
 
 
